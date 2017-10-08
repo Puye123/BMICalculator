@@ -2,7 +2,10 @@
 
 ## Description
 Xamarin.FormsのBMI計算アプリ  
-Prismを使用し、MVVMパターンで実装しています。
+Prismを使用し、MVVMパターンで実装しています。  
+
+Microsoftセミナー C# ではじめる次世代 UI プログラミング - XAML  
+の復習のため作成。
 
 ## Demo
 ![android01](https://user-images.githubusercontent.com/32557553/31315711-df93d622-ac58-11e7-84d5-6daa1801954f.png)
