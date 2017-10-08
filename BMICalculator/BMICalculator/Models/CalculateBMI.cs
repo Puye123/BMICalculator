@@ -39,9 +39,9 @@ namespace BMICalculator.Models
         /// <param name="weight">体重(kg)</param>
         public void calculateBMI(double height, double weight)
         {
-            double heightMetor = height / 100; 
-            BMI = weight / (heightMetor * heightMetor);
-            StandardWeight = heightMetor * heightMetor * 22.0;
+            double heightMeter = height / 100; 
+            BMI = weight / (heightMeter * heightMeter);
+            StandardWeight = heightMeter * heightMeter * 22.0;
         }
     }
 }
